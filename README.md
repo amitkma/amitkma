@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Android developer by day, Backend developer by night. I work at [/e/ foundation](https://e.foundation/). 
+Android developer by day, Backend developer by night. 
 
 You can follow me on [Twitter](http://twitter.com/iamitkma)
 
