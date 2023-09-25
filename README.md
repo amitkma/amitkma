@@ -33,7 +33,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,5 +99,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2023 00:36:16 UTC
+ Last Updated on 25/09/2023 00:35:20 UTC
 <!--END_SECTION:waka-->
