@@ -42,11 +42,11 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.4 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🏆 356 Contributions in the Year 2023
  > 
@@ -107,5 +107,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 07:14:48 UTC
+ Last Updated on 02/12/2023 07:19:18 UTC
 <!--END_SECTION:waka-->
