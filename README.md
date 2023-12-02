@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/twitter/follow/iamitkma?logo=twitter&style=flat" alt="iamitkma" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=amitkma&label=Profile%20views&color=0e75b6&style=flat" alt="amitkma"/>
+  <a href="https://wakatime.com/@dfb84803-e01b-4bbb-a7a6-ce1214fdc3af"><img src="https://wakatime.com/badge/user/dfb84803-e01b-4bbb-a7a6-ce1214fdc3af.svg" alt="Total time coded since Jul 24 2023" /></a>
 </p>
 
 
