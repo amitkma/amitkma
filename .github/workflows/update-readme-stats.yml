@@ -1,4 +1,4 @@
-name: Waka Readme Stats
+name: Update README
 
 on:
   push:
@@ -42,7 +42,7 @@ jobs:
       - name: Commit and push if README changed
         run: |-
           git diff
-          git config --global user.email "42103905+github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "Beep Boop"
           git diff --quiet || (git add README.md && git commit -m "Update blog entries in README")
           git push
