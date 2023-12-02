@@ -12,6 +12,7 @@
 ### Latest Blog Posts
 
 <!-- START blog_posts -->
+* [Buying the seller](https://amitkma.github.io/posts/my-first-post/) - Sat, 14 Oct 2023 11:48:06 +0530
 <!-- END blog_posts -->
 
 More on [amitkma.github.io](https://amitkma.github.io/)
