@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">Founder of DotMyStyle</h3>
+<h3 align="center">Founder@<a href="https://github.com/amitkma/sunsergdev" alt="DotMyStyle Github">DotMyStyle</a></h3>
 
 <p align="left"> 
   <a href="https://twitter.com/iamitkma" target="blank">
@@ -8,6 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=amitkma&label=Profile%20views&color=0e75b6&style=flat" alt="amitkma"/>
   <a href="https://wakatime.com/@dfb84803-e01b-4bbb-a7a6-ce1214fdc3af"><img src="https://wakatime.com/badge/user/dfb84803-e01b-4bbb-a7a6-ce1214fdc3af.svg" alt="Total time coded since Jul 24 2023" /></a>
 </p>
+
+### Latest Blog Posts
+
+<!-- START blog_posts -->
+<!-- END blog_posts -->
+
+More on [amitkma.github.io](https://amitkma.github.io/)
 
 
 ### Info
