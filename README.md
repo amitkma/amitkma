@@ -46,7 +46,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.6 kB Used in GitHub's Storage 
+> 📦 122.5 kB Used in GitHub's Storage 
  > 
 > 🏆 380 Contributions in the Year 2023
  > 
@@ -108,5 +108,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2023 01:58:19 UTC
+ Last Updated on 08/12/2023 02:02:50 UTC
 <!--END_SECTION:waka-->
