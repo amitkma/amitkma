@@ -12,6 +12,7 @@
 ### Latest Blog Posts
 
 <!-- START blog_posts -->
+* [Understanding Inversion of Control (IoC) Principle](https://amitkma.github.io/posts/inversion-of-control/) - Mon, 04 Mar 2024 00:48:06 +0530
 * [How I went into software development?](https://amitkma.github.io/posts/how-i-went-into-programming/) - Wed, 17 Jan 2024 00:48:06 +0530
 <!-- END blog_posts -->
 
