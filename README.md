@@ -49,7 +49,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 
 **🐱 My GitHub Data** 
 
-> 📦 123.2 kB Used in GitHub's Storage 
+> 📦 123.3 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2024
  > 
@@ -86,17 +86,16 @@ Sunday                   426 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               31 mins             █████████████████████████   99.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dot_mechanical_turk      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -116,5 +115,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 00:53:06 UTC
+ Last Updated on 28/03/2024 00:53:20 UTC
 <!--END_SECTION:waka-->
