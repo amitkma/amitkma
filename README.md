@@ -49,7 +49,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 
 **🐱 My GitHub Data** 
 
-> 📦 123.3 kB Used in GitHub's Storage 
+> 📦 123.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,5 +113,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 00:55:49 UTC
+ Last Updated on 03/04/2024 00:52:49 UTC
 <!--END_SECTION:waka-->
