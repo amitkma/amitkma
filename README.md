@@ -43,15 +43,13 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 140 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,22 +84,22 @@ Sunday                   591 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Kotlin                   30 hrs 43 mins      ██████████████████████░░░   87.25 % 
-Python                   3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Java                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-protobuf                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Kotlin                   32 hrs 36 mins      ██████████████████████░░░   88.99 % 
+Python                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Java                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+protobuf                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Android Studio           31 hrs 20 mins      ██████████████████████░░░   89.00 % 
-VS Code                  3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Android Studio           33 hrs 6 mins       ███████████████████████░░   90.35 % 
+VS Code                  3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 🐱‍💻 Projects: 
-DotMyStyle               31 hrs 20 mins      ██████████████████████░░░   89.00 % 
-dotmystyle-backend       3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+DotMyStyle               33 hrs 6 mins       ███████████████████████░░   90.35 % 
+dotmystyle-backend       3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 💻 Operating System: 
-Mac                      35 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -121,5 +119,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 01:02:36 UTC
+ Last Updated on 27/07/2024 01:02:48 UTC
 <!--END_SECTION:waka-->
