@@ -43,7 +43,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C589%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -86,21 +86,20 @@ Sunday                   306 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       █████████████████████████   99.11 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 55 mins        █████████████████████████   98.61 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-search                   3 hrs 2 mins        █████████████████████░░░░   85.14 % 
-dotmystyle-backend       26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-dotmystyle-events        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+search                   1 hr 25 mins        ██████████████████░░░░░░░   72.75 % 
+dotmystyle-backend       26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+dotmystyle-events        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +119,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 01:09:37 UTC
+ Last Updated on 27/10/2024 01:16:24 UTC
 <!--END_SECTION:waka-->
