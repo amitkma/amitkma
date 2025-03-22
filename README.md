@@ -43,7 +43,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C999%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C006%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -124,5 +124,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 01:37:00 UTC
+ Last Updated on 22/03/2025 01:34:52 UTC
 <!--END_SECTION:waka-->
