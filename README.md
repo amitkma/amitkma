@@ -43,7 +43,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkma" alt="amitkma" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C320%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C320%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ More on [amitkma.github.io](https://amitkma.github.io/)
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 245 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,17 +86,17 @@ Sunday                   476 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 38 mins        █████████████████████████   100.00 % 
+Other                    1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Terminal                 1 hr 15 mins        ███████████████████░░░░░░   76.42 % 
-Notes                    23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Terminal                 59 mins             ████████████████████░░░░░   80.57 % 
+Notes                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 
 🐱‍💻 Projects: 
-dotmystyle-backend       1 hr 38 mins        █████████████████████████   100.00 % 
+dotmystyle-backend       1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -116,5 +116,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amitkma/amitkma/master/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 01:50:51 UTC
+ Last Updated on 14/06/2025 01:45:47 UTC
 <!--END_SECTION:waka-->
